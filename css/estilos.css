@@ -39,3 +39,8 @@ body {
   padding: 1em;
   background: white;
 }
+
+footer {
+  color: #33a;
+  font-size: 70px;
+}
