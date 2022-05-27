@@ -32,3 +32,8 @@ body {
 #post {
   padding: 1em;
 }
+
+footer {
+  color: #33a;
+  font-size: 90px;
+}
